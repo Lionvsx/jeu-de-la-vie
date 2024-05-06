@@ -32,6 +32,6 @@
     "typescript": "^5"
   },
   "engines": {
-    "node": "18.2.0"
+    "node": "18.19.1"
   }
 }
